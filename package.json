@@ -1,8 +1,8 @@
 {
-  "name": "tovo-react",
+  "name": "FOOJELandigPage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://react.pixelstrap.com/tovo/",
+  "homepage": "http://react.pixelstrap.com",
   "basename": "/",
   "dependencies": {
     "autoprefixer": "7.1.6",
