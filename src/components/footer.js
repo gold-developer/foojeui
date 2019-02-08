@@ -27,7 +27,7 @@ class Footer extends React.Component {
                                    <img src="assets/images/telephone.png" alt="telephone" />
                                 </div>
                                 <div className="footer-address">
-                                    <a href={null}>Coming Soon</a>
+                                    <a href={null}>1-888-275-3788</a>
                                 </div>
                              </li>
                              <li>

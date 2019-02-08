@@ -12,7 +12,7 @@ class SignIn extends React.Component {
          </div>
          <div>
             <h2 className="title text-center"><span> Login</span></h2>
-            <p className="text-center">Welcome to tovo, Please Login with your personal account information.</p>
+            <p className="text-center">Welcome to FOOJE, Please Login with your personal account information.</p>
             <div className="card">
                <form className="theme-form">
                   <div className="form-group">

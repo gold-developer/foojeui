@@ -12,7 +12,7 @@ class SignUp extends React.Component {
          </div>
          <div>
             <h2 className="title text-center">It's Free<span> Join US</span></h2>
-            <p className="text-center">Welcome to tovo, Please join us with your personal account information.</p>
+            <p className="text-center">Welcome to FOOJE, Please join us with your personal account information.</p>
             <div className="card">
                <form className="theme-form">
                   <div className="form-group">
