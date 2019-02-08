@@ -29,7 +29,7 @@ class Feature extends React.Component {
                                  <h3>user friendly</h3>
                               </div>
                               <div>
-                                 <p>Our service is simply dummy text of the printing and typesetting industry. </p>
+                                 <p>Our Service Is easy to use, we offer live transcription as well as great reporting</p>
                               </div>
                            </li>
                            <li>
@@ -40,7 +40,7 @@ class Feature extends React.Component {
                                  <h3>high performance</h3>
                               </div>
                               <div>
-                                 <p>Our service is simply dummy text of the printing and typesetting industry. </p>
+                                 <p>Our Service Is responsive, can handle thousands of concurrent calls.</p>
                               </div>
                            </li>
                            <li>
@@ -51,7 +51,7 @@ class Feature extends React.Component {
                                  <h3>unlimited features</h3>
                               </div>
                               <div>
-                                 <p>Our service is simply dummy text of the printing and typesetting industry. </p>
+                                 <p>Feature are constantly being added.</p>
                               </div>
                            </li>
                         </ul>
@@ -66,7 +66,7 @@ class Feature extends React.Component {
                                  <h3>quick update</h3>
                               </div>
                               <div>
-                                 <p>Our service is simply dummy text of the printing and typesetting industry. </p>
+                                 <p>We provide weekly updates</p>
                               </div>
                            </li>
                            <li>
@@ -77,7 +77,7 @@ class Feature extends React.Component {
                                  <h3>100% secure</h3>
                               </div>
                               <div>
-                                 <p>Our service is simply dummy text of the printing and typesetting industry. </p>
+                                 <p>Industry standard security.</p>
                               </div>
                            </li>
                            <li>
@@ -88,7 +88,7 @@ class Feature extends React.Component {
                                  <h3>24 x 7 support</h3>
                               </div>
                               <div>
-                                 <p>Our service is simply dummy text of the printing and typesetting industry. </p>
+                                 <p>	Friendly, responsive and knowledgeable.</p>
                               </div>
                            </li>
                         </ul>

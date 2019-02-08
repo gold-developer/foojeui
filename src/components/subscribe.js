@@ -11,8 +11,7 @@ class Subscribe extends React.Component {
                <div className="col-md-8 offset-md-2">
                   <div className="footer-text">
                      <img src="assets/images/email.png" alt="email" />
-                     <h2 className="title text-center md-margin-top">subscribe to <span>newsletter</span></h2>
-                     <p>  There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                     <h2 className="title text-center md-margin-top">subscribe to <span>newsletter</span></h2>                   
                      <form className="footer-form">
                         <div className="form-group">
                            <input type="email" className="form-control" placeholder="enter your email" />
