@@ -4,7 +4,6 @@ import About from './components/about';
 import Feature from './components/feature';
 import Team from './components/team';
 import Blog from './components/blog';
-import Price from './components/price';
 import Contact from './components/contact';
 import Subscribe from './components/subscribe';
 import Footer from './components/footer';
@@ -71,9 +70,6 @@ At FooJe our job is to listen, take notes, make suggestions when needed and buil
 
 			{/*Blog Component*/}
 			<Blog />
-
-			{/*Price Component*/}
-			<Price />
 			
 			{/*Contact Component*/}
 			<Contact />

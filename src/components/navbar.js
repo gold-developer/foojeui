@@ -29,11 +29,7 @@ class Navbar extends React.Component {
 			               <a className="nav-link" href="#team">team</a>
 			            </li>
 			            <li className="nav-item dropdown">
-			               <a className="nav-link" href="#blog">blog</a>
-			               
-			            </li>
-			            <li className="nav-item">
-			               <a className="nav-link" href="#price" data-menuanchor="price">price</a>
+			               <a className="nav-link" href="#blog">blog</a>			               
 			            </li>
 			            <li className="nav-item">
 			               <a className="nav-link" href="#contact" data-menuanchor="contact">contact us</a>

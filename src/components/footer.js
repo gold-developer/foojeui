@@ -35,7 +35,7 @@ class Footer extends React.Component {
                                    <img src="assets/images/fotter-email.png" alt="fotter-email" />
                                 </div>
                                 <div className="footer-address">
-                                    <a href={null}>fooje@fooje.com</a>
+                                    <a href={null}>support@discoverfooje.com</a>
                                 </div>
                              </li>
                              <li>
