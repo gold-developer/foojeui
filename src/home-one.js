@@ -2,7 +2,6 @@ import React from 'react';
 import Navbar from './components/navbar';
 import About from './components/about';
 import Feature from './components/feature';
-import Team from './components/team';
 import Blog from './components/blog';
 import Contact from './components/contact';
 import Subscribe from './components/subscribe';
@@ -64,9 +63,6 @@ At FooJe our job is to listen, take notes, make suggestions when needed and buil
 
 			{/*Feature Component*/}
 			<Feature />
-
-			{/*Team Component*/}
-			<Team />
 
 			{/*Blog Component*/}
 			<Blog />
