@@ -33,8 +33,18 @@ class Contact extends React.Component {
                            <div className="form-group">
                               <textarea className="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="message" required="required"></textarea>
                            </div>
-                           <div className="form-button">
-                              <button type="submit" className="btn btn-custom theme-color">send</button>
+                           <div className="row">
+                              <div className="col-sm-3 col-md-3">
+                                 <img src="assets/images/phone-3.png" style= {{display:'inline', width:'18px', height:'18px'}} alt="telephone" />
+                                 <span> 1-888-275-3788</span>
+                              </div>
+                              <div className="col-sm-6 col-md-6">
+                                 <img src="assets/images/email-3.png"  style= {{display:'inline', width:'20px', height:'20px'}} alt="email" />
+                                 <span> ray.desmangles@discoverfooje.com</span>
+                              </div>
+                              <div className="form-button col-sm-2 col-md-2">                           
+                                 <button type="submit" className="btn btn-custom theme-color">send</button>
+                              </div> 
                            </div>
                         </form>
                      </div>
