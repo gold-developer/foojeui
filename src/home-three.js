@@ -51,7 +51,7 @@ class HomeThree extends React.Component {
 			                  <h1 className="text-white">t<span className="f-bold">o</span>v<span className="f-bold">o</span>
 			                     <span className="f-bold f-color text-white">app</span>
 			                  </h1>
-			                  <p className="slide-cap-desc">Enhance your business ideas with Powerful, Responsive, Elegant TOVO Theme.</p>
+			                  <p className="slide-cap-desc">Fooje Landig Page</p>
 			                  <a href={null}><img src="assets/images/appstore.png" alt="appstore" className="store" /></a>
 			                  <a href={null}><img className="ml-10 store" src="assets/images/play-store.png" alt="play-store" /></a>
 			                  </div>
